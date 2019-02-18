@@ -63,3 +63,8 @@ th, tr, td
     text-align: center;
     font-weight: bold;
 }
+
+body
+{
+    background-color: lightgrey;
+}
