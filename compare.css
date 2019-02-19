@@ -3,7 +3,6 @@
 .navbar-default .navbar-nav > li.dropdown:hover > a:focus 
 {
     background-color: rgb(231, 231, 231);
-    color: rgb(85, 85, 85);
 }
 
 li.dropdown:hover > .dropdown-menu 
@@ -74,5 +73,5 @@ li.dropdown:hover > .dropdown-menu
 
 body
 {
-    background-color: #F2F4F4;
+    background-color: #d9d9d9;
 }
