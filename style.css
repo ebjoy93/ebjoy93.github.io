@@ -97,3 +97,8 @@ img
     margin: auto;
     margin-top: 80px;
 }
+
+div
+{
+    position: static;
+}
