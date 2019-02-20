@@ -68,3 +68,8 @@ body
 {
     background-color: #d9d9d9;
 }
+
+div
+{
+    position: static;
+}
